@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/drpadmaja/static/css/main.e6c13ad2.css",
-    "main.js": "/drpadmaja/static/js/main.5a6075e9.js",
+    "main.js": "/drpadmaja/static/js/main.5e01d19b.js",
     "static/js/453.b313d622.chunk.js": "/drpadmaja/static/js/453.b313d622.chunk.js",
     "index.html": "/drpadmaja/index.html",
     "main.e6c13ad2.css.map": "/drpadmaja/static/css/main.e6c13ad2.css.map",
-    "main.5a6075e9.js.map": "/drpadmaja/static/js/main.5a6075e9.js.map",
+    "main.5e01d19b.js.map": "/drpadmaja/static/js/main.5e01d19b.js.map",
     "453.b313d622.chunk.js.map": "/drpadmaja/static/js/453.b313d622.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5a6075e9.js"
+    "static/js/main.5e01d19b.js"
   ]
 }
